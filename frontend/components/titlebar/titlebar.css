@@ -1,0 +1,42 @@
+.titebar{
+    height: 31px;
+    background: #2f3241;
+    color: #74b1be;
+    -webkit-app-region: drag;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 0;
+}
+
+.titebar .left{
+    flex: auto;
+    display: flex;
+    align-items: center;
+    padding-left: 8px;
+}
+
+.appName{
+    font-size: 14px;
+    margin: 0 0 0 4px;
+}
+
+.titebar button{
+    -webkit-app-region: no-drag;
+    margin: 0;
+    height: 31px;
+    width: 46px;
+    border: none;
+    background: none;
+    color: #74b1be;
+}
+
+.titebar #close:hover{
+    color: white;
+    background: red;
+}
+
+.titebar button:hover{
+    background: #ffffff1a;
+    color: #74b1be;
+}

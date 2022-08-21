@@ -1,0 +1,21 @@
+{
+  "name": "xiaohuojian",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc --watch",
+    "package-darwin": "electron-packager ./ rocketx  --platform=darwin --out ./ –arch=x64  --electron-version 17.1.0 --overwrite --icon=./app.icns",
+    "package-win32": "electron-packager ./ rocketx  --platform=win32 --out ./ --electron-version 17.1.0 --overwrite --icon=./app.ico  --asar"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "electorn": "0.0.1-security",
+    "electron": "^20.0.2",
+    "electron-packager": "^15.5.1"
+  }
+}

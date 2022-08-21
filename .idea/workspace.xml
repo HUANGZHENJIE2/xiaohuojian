@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d3fbb017-3d44-46f3-bf57-629b25ef30a0" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,9 +96,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="npm.build" />
         <item itemvalue="npm.start" />
         <item itemvalue="npm.package-darwin" />
-        <item itemvalue="npm.build" />
       </list>
     </recent_temporary>
   </component>
@@ -111,23 +111,11 @@
       <option name="presentableId" value="Default" />
       <updated>1660636480353</updated>
       <workItem from="1660636482889" duration="46954000" />
-      <workItem from="1660879450292" duration="41817000" />
+      <workItem from="1660879450292" duration="42743000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-    <option name="exactExcludedFiles">
-      <list>
-        <option value="$PROJECT_DIR$/main.js" />
-        <option value="$PROJECT_DIR$/main.js.map" />
-        <option value="$PROJECT_DIR$/app/src/MainWindow.js" />
-        <option value="$PROJECT_DIR$/app/src/MainWindow.js.map" />
-        <option value="$PROJECT_DIR$/app/src/Constants.js.map" />
-        <option value="$PROJECT_DIR$/app/src/Constants.js" />
-        <option value="$PROJECT_DIR$/app/src/MainRender.js" />
-        <option value="$PROJECT_DIR$/app/src/MainRender.js.map" />
-      </list>
-    </option>
   </component>
 </project>

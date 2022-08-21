@@ -1,0 +1,23 @@
+.controlpanel{
+    height: 200px;
+    background: #2f3241;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color: #0c63e4;
+}
+
+.controlpanel button{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    border: 1px solid #74b1be;
+    color: #74b1be;
+    background: none;
+    margin-bottom: 10px;
+}
+
+.controlpanel button.active{
+
+}

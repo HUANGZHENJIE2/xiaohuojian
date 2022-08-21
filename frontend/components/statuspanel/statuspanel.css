@@ -1,0 +1,27 @@
+#statusPanel .list-group .list-group-item{
+    display: flex;
+}
+
+#statusPanel .list-group .list-group-item .name{
+    flex: auto;
+}
+
+#statusPanel .list-group .list-group-item .value{
+    margin: 0 10px;
+    color: #0000005e;
+}
+
+#statusPanel .list-group .list-group-item button{
+    width: 60px;
+}
+
+#statusPanel .list-group .list-group-item input[type='number']{
+    width: 77px;
+    text-align: right;
+}
+
+#statusPanel .list-group .list-group-item .switch{
+    width: 60px;
+    display: flex;
+    justify-content: flex-end;
+}
